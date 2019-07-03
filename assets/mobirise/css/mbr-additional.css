@@ -3474,6 +3474,29 @@ body {
 .cid-rvaZzCoGct .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-rvcB3vAXqc {
+  padding-top: 120px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rvcB3vAXqc .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rvcB3vAXqc .section-text {
+  padding: 2rem 0;
+}
+.cid-rvcB3vAXqc .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rvcB3vAXqc .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-ruZC0tPqBx .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -3937,6 +3960,86 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rvbkCdZpQK .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
+.cid-rvcoKldzdv {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rvcoKldzdv .card-img {
+  background-color: #fff;
+}
+.cid-rvcoKldzdv .card-box {
+  padding: 2rem;
+  background-color: #f9f295;
+}
+.cid-rvcoKldzdv h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rvcoKldzdv p {
+  text-align: left;
+}
+.cid-rvcoKldzdv .mbr-text {
+  color: #767676;
+}
+.cid-rvcoKldzdv .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rvcoKldzdv .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-rvcoKldzdv .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
+.cid-rvcwSi4rsl {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rvcwSi4rsl .card-img {
+  background-color: #fff;
+}
+.cid-rvcwSi4rsl .card-box {
+  padding: 2rem;
+  background-color: #f9f295;
+}
+.cid-rvcwSi4rsl h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rvcwSi4rsl p {
+  text-align: left;
+}
+.cid-rvcwSi4rsl .mbr-text {
+  color: #767676;
+}
+.cid-rvcwSi4rsl .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rvcwSi4rsl .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-rvcwSi4rsl .my-col {
     flex: 0 0 20%;
     max-width: 20%;
     padding: 15px;
