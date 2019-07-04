@@ -5111,7 +5111,7 @@ body {
 .cid-rvgrPP4Ri2 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-rvgrPP4Ri2 h4 {
   font-weight: 500;
@@ -5127,4 +5127,7 @@ body {
 }
 .cid-rvgrPP4Ri2 .card-wrapper {
   height: 100%;
+}
+.cid-rvgrPP4Ri2 P {
+  color: #465052;
 }
