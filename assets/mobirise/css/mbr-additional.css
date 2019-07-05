@@ -7569,7 +7569,7 @@ body {
 .cid-rvmkyoZnr2 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #0f7699, #cc2952);
+  background: linear-gradient(45deg, #cebfaf, #cebfaf);
 }
 .cid-rvmkyoZnr2 .list-group-item {
   padding: .75rem 3.25rem;
@@ -7620,4 +7620,48 @@ body {
   .cid-rvmkyoZnr2 .price-figure {
     font-size: 4.25rem;
   }
+}
+.cid-rvmrny7HTd {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rvmrny7HTd h4 {
+  font-weight: 500;
+  color: #ffffff;
+}
+.cid-rvmrny7HTd p {
+  color: #ffffff;
+}
+.cid-rvmrny7HTd .card {
+  margin-bottom: 2rem;
+}
+.cid-rvmrny7HTd .card-img {
+  border-radius: 0;
+  padding: 2rem 2rem 0 2rem;
+  background-color: #149dcc;
+}
+.cid-rvmrny7HTd .card-img span {
+  font-size: 100px;
+  color: #ffffff;
+}
+.cid-rvmrny7HTd .card-box {
+  padding-bottom: 2rem;
+  background-color: #149dcc;
+  background: linear-gradient(#149dcc, transparent);
+}
+.cid-rvmrny7HTd .card-box .card-title {
+  margin: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-rvmrny7HTd .card-box .mbr-text {
+  margin-bottom: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-rvmrny7HTd .card-box .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rvmrny7HTd .card-box .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
 }
