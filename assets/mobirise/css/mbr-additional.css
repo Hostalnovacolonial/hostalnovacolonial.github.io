@@ -8865,37 +8865,23 @@ body {
   font-weight: 300;
 }
 .cid-rvz1wReaOl .step {
-  width: 64px;
-  height: 64px;
-  font-size: 32px;
+  width: 38px;
+  height: 38px;
+  font-size: 19px;
   border-radius: 50%;
   border: 2px solid #149dcc;
-}
-@media (max-width: 767px) {
-  .cid-rvz1wReaOl .step {
-    width: 48px;
-    height: 48px;
-    font-size: 24px;
-  }
 }
 .cid-rvz1wReaOl .separline {
   position: relative;
 }
 .cid-rvz1wReaOl .separline:after {
-  top: 68px;
-  left: 30px;
+  top: 42px;
+  left: 17px;
   position: absolute;
   content: "";
   width: 2px;
-  height: calc(100% - (32px + 4px) * 2);
+  height: calc(100% - (19px + 4px) * 2);
   background-color: #149dcc;
-}
-@media (max-width: 767px) {
-  .cid-rvz1wReaOl .separline:after {
-    top: 52px;
-    left: 22px;
-    height: calc(100% - 56px);
-  }
 }
 .cid-rvz1wReaOl .media-block {
   flex-shrink: 0;
