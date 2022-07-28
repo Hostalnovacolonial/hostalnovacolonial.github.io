@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "hostalnovacolonial",
-    "currentPage": "index.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,11 +36,10 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 95,
-    "versionPublish": "5.6.11",
+    "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": "",
-    "imageResize": true
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
